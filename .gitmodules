@@ -1,4 +1,4 @@
 [submodule "project-1"]
 	path = project-1
 	url = git@github.com:nanaem-85/project-1.git
-	branch = main
+	branch = develop
